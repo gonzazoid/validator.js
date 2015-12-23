@@ -1,0 +1,25 @@
+{
+  "name": "validator",
+  "version": "0.0.1",
+  "description": "json-based declarative-style multipurpose module.",
+  "keywords": [
+    "validator",
+    "sanitizer"
+  ],
+  "homepage": "https://github.com/gonzazoid/validator.js/",
+  "license": "MIT",
+  "author": {
+    "name": "Timur Appaev",
+    "url": "https://www.facebook.com/timur.appaev.1"
+  },
+  "main": "src/validator.js",
+  "jsnext:main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzazoid/validator.js/validator.js.git"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
