@@ -6,7 +6,7 @@
   },
   "versions": {
       "0.0.2": "0.0.2", "0.0.1": "0.0.1"
-  }
+  },
   "description": "json-based declarative-style multipurpose module.",
   "keywords": [
     "validator",
